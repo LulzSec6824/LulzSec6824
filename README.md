@@ -20,7 +20,8 @@ Curious for more? My repositories await your exploration!
 
 ## 💡 My Tech Stack & Skills
 
-*   **Languages:** Rust , C++ , JavaScript , C , Go
+*   **Languages:** 
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" height="25"/> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" height="25"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="25"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="25"/> <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="25"/>
 *   **Interests:** Game Development , Algorithm Design , System Utilities , Web Technologies , Web Api's
 *   **Tools:** Git , GitHub , NeoVim , Visual Studio Code
 
