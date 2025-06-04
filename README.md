@@ -7,14 +7,14 @@ Welcome to my digital playground! I'm a passionate developer on a mission to bui
 Here's a glimpse into some of the adventures I've embarked on:
 
 *   🎮 **Game Development Arena:**
-    *   **Rust & GGEZ Powered Game:** Crafted a game using Rust and the GGEZ library, ready for action on Windows and Linux. <mcreference link="https://github.com/LulzSec6824" index="0">0</mcreference>
+    *   **Rust & GGEZ Powered Game:** Crafted a game using Rust and the GGEZ library, ready for action on Windows and Linux. <mcreference link="https://github.com/LulzSec6824/color_war" index="1"></mcreference>
 *   🧠 **Algorithmic Quests & Brain Teasers:**
-    *   **Unbeatable Tic-Tac-Toe (Rust):** Engineered a classic Tic-Tac-Toe game in Rust, complete with an AI opponent that uses the minimax algorithm – try to beat it if you dare! <mcreference link="https://github.com/LulzSec6824" index="0">0</mcreference>
-    *   **Sudoku Sorcerer (C++):** Conjured a Sudoku puzzle solver in C++ leveraging the power of the backtracking algorithm. <mcreference link="https://github.com/LulzSec6824" index="0">0</mcreference>
+    *   **Unbeatable Tic-Tac-Toe (Rust):** Engineered a classic Tic-Tac-Toe game in Rust, complete with an AI opponent that uses the minimax algorithm – try to beat it if you dare! <mcreference link="https://github.com/LulzSec6824/tictactoe" index="2"></mcreference>
+    *   **Sudoku Sorcerer (C++):** Conjured a Sudoku puzzle solver in C++ leveraging the power of the backtracking algorithm. <mcreference link="https://github.com/LulzSec6824/SudokuSolver" index="3"></mcreference>
 *   🕸️ **Web Wonders & System Sorcery:**
-    *   **JavaScript Journey:** Ventured into the world of JavaScript with an exciting project (more details coming soon!). <mcreference link="https://github.com/LulzSec6824" index="0">0</mcreference>
-    *   **Sequential Pass Wizard (Rust):** Forged a sequential pass generator using the might of Rust. <mcreference link="https://github.com/LulzSec6824" index="0">0</mcreference>
-    *   **Static File Sentinel (C++):** Constructed a C++ guardian for hosting static files. <mcreference link="https://github.com/LulzSec6824" index="0">0</mcreference>
+    *   **JavaScript Journey:** Ventured into the world of JavaScript with an exciting project (more details coming soon!). <mcreference link="https://github.com/LulzSec6824/color_war_web" index="4"></mcreference>
+    *   **Sequential Pass Wizard (Rust):** Forged a sequential pass generator using the might of Rust. <mcreference link="https://github.com/LulzSec6824/sequentialpass" index="5"></mcreference>
+    *   **Static File Sentinel (C++):** Constructed a C++ guardian for hosting static files. <mcreference link="https://github.com/LulzSec6824/StaticServer" index="6"></mcreference>
 
 Curious for more? My repositories await your exploration!
 
@@ -34,12 +34,14 @@ Curious for more? My repositories await your exploration!
 *(Got an exciting project or an idea that needs a collaborator? Let me know! E.g., "Open to collaborating on open-source Rust / Cpp projects or innovative game dev ideas.")*
 
 ## 📫 Connect With Me
-
-*(Drop your digital calling cards here! E.g., LinkedIn profile, professional email, Twitter handle)*
+* Instagram : lulzsec6824 
+* Facebook : LulzSec6824
+* Discord : LulzSec6824
+* Mail : ki2019567@gmail.com
 
 ## ⚡ Fun Fact About Me
 
-*My first program was written with GLFW and C *
+My first program was written with GLFW and C 
 
 ## 📊 My GitHub Universe
 
